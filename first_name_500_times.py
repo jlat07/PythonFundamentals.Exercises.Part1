@@ -1,3 +1,3 @@
-first_name ='James'
+first_name = 'James'
 
-print(first_name * 500)
+print(first_name * 1)
